@@ -7,7 +7,11 @@ Project Creation Date is 22-Nov-2022
 US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project, we are going to utilize Python and descriptive statistics concepts to explore data associated with bike share systems for three big cities in the United States—Chicago, New York City, and Washington. 
+
+We will use python to answer some interesting basic statistical questions about the data.
+
+Moreover, we will provide a user interactive experience in the terminal to ask about and represent these statistics.
 
 ### Files used
 Include the files used
