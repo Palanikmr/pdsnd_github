@@ -14,8 +14,10 @@ We will use python to answer some interesting basic statistical questions about 
 Moreover, we will provide a user interactive experience in the terminal to ask about and represent these statistics.
 
 ### Files used
-Include the files used
+Chicago.csv
+New York City.csv
+Washington.csv
+Bikeshare1.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/Udacity/pdsnd_github.git
